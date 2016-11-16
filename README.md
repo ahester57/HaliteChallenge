@@ -1,2 +1,2 @@
 # HaliteChallenge
-more info at halite.io
+more info at https://halite.io/
